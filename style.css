@@ -1,0 +1,20 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+.tanlash {
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 2px solid;
+  border-radius: 1rem;
+  padding: 3rem;
+}
